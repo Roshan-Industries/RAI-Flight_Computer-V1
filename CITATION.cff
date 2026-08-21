@@ -1,1 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference FC_V1 in academic, educational, or engineering work, please cite this project."
 
+title: "FC_V1: ESP32-Based Flight Computer Functional Prototype"
+
+type: software
+
+authors:
+  - family-names: "Roshan"
+    given-names: "Rajnish"
+
+version: "1.0.0"
+
+date-released: "2026-08-21"
+
+abstract: >-
+  FC_V1 is an ESP32-based experimental flight-computer prototype developed
+  by Roshan Aerospace Industries. The system integrates BMP280 barometric
+  sensing, MPU6050 inertial sensing, OLED diagnostics, deterministic
+  flight-state logic, recovery-servo actuation, status indication, and
+  post-landing recovery-beacon functionality. The completed prototype was
+  subjected to repeated simulated flight-event bench testing and is
+  classified as an Integrated Functional Prototype — Bench Verified.
+  FC_V1 is not flight-qualified hardware.
+
+keywords:
+  - flight computer
+  - ESP32
+  - embedded systems
+  - aerospace
+  - avionics
+  - BMP280
+  - MPU6050
+  - recovery system
+  - flight-state machine
+  - engineering prototype
+
+license: Apache-2.0
