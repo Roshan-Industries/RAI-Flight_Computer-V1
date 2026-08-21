@@ -1,1 +1,96 @@
+Roshan Aerospace Industries (RAI)
+Flight Computer V1 (FC_V1)
 
+Copyright 2026 Rajnish Roshan.
+All rights reserved except where expressly licensed.
+
+PROJECT IDENTIFICATION
+
+Project:
+FC_V1 — Flight Computer V1
+
+Technical Document:
+RAI-FC-2026-001
+
+Final Firmware Baseline:
+FC_V1_v1.6.5_ButtonIntegrated.ino
+
+
+SOFTWARE LICENSING
+
+Unless otherwise stated, original software and source code contained in this
+repository are made available under the Apache License, Version 2.0.
+
+A copy of the Apache License 2.0 is provided in the LICENSE file at the root
+of this repository.
+
+
+NON-SOFTWARE MATERIAL
+
+The Apache License 2.0 designation for the software should not be interpreted
+as a separate grant of rights to RAI trademarks or branding.
+
+Unless separately licensed, project photographs, logos, branding assets and
+other materials that are not part of the licensed software remain subject to
+their applicable copyright and other rights.
+
+Technical reports and documentation should be used and cited in accordance
+with any licensing or copyright notice accompanying those materials.
+
+
+TRADEMARKS AND BRANDING
+
+"Roshan Aerospace Industries", "RAI", associated logos, project branding and
+related identifying marks are not licensed for third-party use merely because
+software in this repository is distributed under the Apache License 2.0.
+
+Nothing in the software license grants permission to represent a modified,
+derived or redistributed project as an official product, publication or
+endorsement of Roshan Aerospace Industries.
+
+
+ENGINEERING AND SAFETY STATUS
+
+FC_V1 is an experimental engineering-development prototype.
+
+The prototype has undergone controlled functional bench verification but has
+not been demonstrated as flight-qualified avionics.
+
+The project has not undergone certification or comprehensive environmental
+qualification for operational aerospace use.
+
+Publication of source code, technical documentation or test information does
+not constitute certification, approval, warranty or representation of
+suitability for safety-critical or operational flight applications.
+
+
+ATTRIBUTION AND CITATION
+
+Citation metadata for FC_V1 is provided in the CITATION.cff file.
+
+Users referencing the project in academic, educational, research or
+engineering work are encouraged to cite the project using the supplied
+citation metadata.
+
+
+THIRD-PARTY COMPONENTS
+
+FC_V1 uses third-party hardware, software libraries and development tools.
+
+Such third-party components remain subject to their respective licenses,
+copyrights, trademarks and terms. Their inclusion or reference within this
+project does not transfer ownership of those components to Roshan Aerospace
+Industries or Rajnish Roshan.
+
+
+PROJECT STATUS
+
+FC_V1 V1.0 represents the completed and frozen first-generation flight-computer
+prototype baseline.
+
+Status:
+
+Integrated Functional Prototype — Bench Verified
+
+Future engineering development is intended to proceed through subsequent
+hardware and firmware revisions rather than altering the frozen FC_V1 baseline.
